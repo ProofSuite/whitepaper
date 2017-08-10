@@ -1,6 +1,6 @@
 # Proof
 
-##Decentralized Certainty for Investments & Anonymous Participant Accountability
+## Decentralized Certainty for Investments & Anonymous Participant Accountability
 
 **Mike De’Shazer**
 
@@ -14,7 +14,7 @@ david@proofsuite.com
 
 tai@proofsuite.com
 
-##1. Introduction
+## 1. Introduction
 
 Humans are not infallible. This fallibility is a strong driver of the uncertainties around the
 outcomes of future events. Other factors, such as natural events outside the control of
@@ -28,7 +28,7 @@ typically complex, commonly consisting of centralized marketplaces, trusted mark
 participants, registered brokers, various regulatory oversight bodies, and varieties of
 process ambiguity.
 
-##2. Our Solution
+## 2. Our Solution
 
 We propose a simple and digestible user experience for investing with simultaneous
 insurance protections governed by (and with the certainty of) immutable digitally computed
@@ -90,7 +90,7 @@ with a process that crowdsources and provides financial incentive for analysts t
 the risk of an asset, as well as protects investors from loss with automated insurance claim
 fulfillment.
 
-##2.2 Creditworthiness and Reputation Scores of Token Issuers
+## 2.2 Creditworthiness and Reputation Scores of Token Issuers
 
 Proof’s current reputation system for users averages an issuer's cumulative 1-to-5 star
 ratings of token purchasers, weighing their vote according to their corresponding token
@@ -177,7 +177,7 @@ Section 5 of Figure 1 shows to a user the issuer’s star rating, along with pre
 results recorded by the EVS and the number of previous investor reviews stored on the
 blockchain. In this case, the issuer has 4 out of 5 stars.
 
-##​ 3. AMP : Assurance Marketplace Protocol
+## 3. AMP : Assurance Marketplace Protocol
 
 The Assurance Market Protocol (AMP) consists of a decentralized marketplace leveraging
 blockchain or tangle technology, tamper-proof credibility scoring, crowdsourced investment
@@ -348,7 +348,7 @@ as C-Euro being exchanged for Ether. The amount of Ether the C-Euro purchaser re
 based on the current exchange rate average across more than 20 popular exchanges,
 ignoring outliers. The purchase price is the C-Euro is based on this same exchange rate.
 
-##4.1 Volatility Protection
+## 4.1 Volatility Protection
 
 If the Ether smart contract holds 10,000 Ether from all depositor purchases in a day and the
 exchange rate is €240 per Ether, then all participants can withdraw their funds on that same
@@ -372,7 +372,7 @@ worst-case scenario, would receive their cumulative €2,400,000 worth of Ether 
 deposited, except while there was 10,000 Ether deposited by token purchases, 20,000 Ether
 would be withdrawn by participants because of the 50% ETH-Euro price decline.
 
-##4.2 The Currency Prediction Market
+## 4.2 The Currency Prediction Market
 
 Another protection built into the system is a corresponding currency prediction market. This
 prediction market allows speculators to stake Ether based on their prediction of Ether’s
@@ -455,7 +455,7 @@ Proof seeks to align itself with the token holders by keeping half of the tokens
 half of the dividends go to the company as a primary source of revenue. This is also a
 mechanism for decentralizing even Proof’s revenue model.
 
-##5.1 Fiat-Crypto Seeding
+## 5.1 Fiat-Crypto Seeding
 
 One of the most important uses of the ICO funds will be in seeding the Fiat-Crypto
 Contract’s ether buffer. In order for this utility token to work, it must be backed by a large
@@ -467,7 +467,7 @@ small portion of their transactions. This seeding of the Fiat-Contract Marketpla
 actual value to the initial issuances of the Crypto-USD and Crypto-Euro meaning that almost
 immediately, they will be ready for use on platforms beyond Proof.
 
-​##5.2 Ethereum Blockchain Scaling
+## 5.2 Ethereum Blockchain Scaling
 
 Although Ethereum purports to support 15 transactions per second, the addition of a Turing
 complete virtual machine complicates this number
