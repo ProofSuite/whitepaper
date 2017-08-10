@@ -2,17 +2,13 @@
 
 ## Decentralized Certainty for Investments & Anonymous Participant Accountability
 
-**Mike De’Shazer**
+**Mike De’Shazer** mike@proofsuite.com
 
-mike@proofsuite.com
+**David Van Isacker** david@proofsuite.com
 
-**David Van Isacker**
+**Tai Kersten** tai@proofsuite.com
 
-david@proofsuite.com
-
-**Tai Kersten**
-
-tai@proofsuite.com
+To discuss further join our [slack](http://slack.proofsuite.com/)
 
 ## 1. Introduction
 
