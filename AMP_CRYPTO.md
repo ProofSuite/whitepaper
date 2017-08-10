@@ -1,4 +1,4 @@
-
+# Proof
 
 ## Decentralized Certainty for Investments & Anonymous Participant Accountability
 
