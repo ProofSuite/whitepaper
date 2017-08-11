@@ -239,28 +239,28 @@ The Token Smart Contract in all three Figure 2 depictions is dynamically generat
 represent a given underlying asset or initiative. This smart contract consists of 6 main
 methods:
 
-1. A purchase ​method that allows token holders to exchange cryptocurrency for a
+1. A purchase method that allows token holders to exchange cryptocurrency for a
 given token offered. Each token has a limited total supply or inflationary schedule
 either dependant on time or events.
 
-2. An ensure ​method which allows users to place cryptocurrency into a reserve which
+2. An ensure method which allows users to place cryptocurrency into a reserve which
 will solely be controlled by an invocation of a method to payout to speculators or
 asset holders in the event of non-satisfaction of predetermined conditions during the
 token smart contract’s creation.
 
-3. The EVSVerification ​method is a method called to the EVS contract to verify that the
+3. The EVSVerification method is a method called to the EVS contract to verify that the
 contract is EVS-compatible in the handshake process between the token contract
 and the EVS contract.
 
-4. A depositPayout​ method which is invoked by the issuer(s) exclusively when the
+4. A depositPayout method which is invoked by the issuer(s) exclusively when the
 underlying asset generates revenue.
 
-5. A sendInsurance​ method which can exclusively be invoked by the EVS contract and
+5. A sendInsurance method which can exclusively be invoked by the EVS contract and
 not the issuer or other users to control the movement of insurance funds based on
 token contract activity.
 
-6. A receivePayout​method which allows token holders to receive their cryptocurrency
-after the issuer invokes the depositPayout​ method.
+6. A receivePayout method which allows token holders to receive their cryptocurrency
+after the issuer invokes the depositPayout method.
 
 The Prediction Market Contract registers new prediction opportunities as requested
 exclusively by the EVS smart contract into its ledger. As requested, the prediction market
