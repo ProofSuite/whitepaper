@@ -171,7 +171,7 @@ Section 5 of Figure 1 shows to a user the issuer’s star rating, along with pre
 results recorded by the EVS and the number of previous investor reviews stored on the
 blockchain. In this case, the issuer has 4 out of 5 stars.
 
-##​ 3. AMP : Assurance Marketplace Protocol
+## 3. AMP : Assurance Marketplace Protocol
 
 The Assurance Market Protocol (AMP) consists of a decentralized marketplace leveraging
 blockchain or tangle technology, tamper-proof credibility scoring, crowdsourced investment
@@ -237,28 +237,28 @@ The Token Smart Contract in all three Figure 2 depictions is dynamically generat
 represent a given underlying asset or initiative. This smart contract consists of 6 main
 methods:
 
-1. A purchase ​method that allows token holders to exchange cryptocurrency for a
+1. A purchase method that allows token holders to exchange cryptocurrency for a
 given token offered. Each token has a limited total supply or inflationary schedule
 either dependant on time or events.
 
-2. An ensure ​method which allows users to place cryptocurrency into a reserve which
+2. An ensure method which allows users to place cryptocurrency into a reserve which
 will solely be controlled by an invocation of a method to payout to speculators or
 asset holders in the event of non-satisfaction of predetermined conditions during the
 token smart contract’s creation.
 
-3. The EVSVerification ​method is a method called to the EVS contract to verify that the
+3. The EVSVerification method is a method called to the EVS contract to verify that the
 contract is EVS-compatible in the handshake process between the token contract
 and the EVS contract.
 
-4. A depositPayout​ method which is invoked by the issuer(s) exclusively when the
+4. A depositPayout method which is invoked by the issuer(s) exclusively when the
 underlying asset generates revenue.
 
-5. A sendInsurance​ method which can exclusively be invoked by the EVS contract and
+5. A sendInsurance method which can exclusively be invoked by the EVS contract and
 not the issuer or other users to control the movement of insurance funds based on
 token contract activity.
 
-6. A receivePayout​method which allows token holders to receive their cryptocurrency
-after the issuer invokes the depositPayout​ method.
+6. A receivePayoutmethod which allows token holders to receive their cryptocurrency
+after the issuer invokes the depositPayout method.
 
 The Prediction Market Contract registers new prediction opportunities as requested
 exclusively by the EVS smart contract into its ledger. As requested, the prediction market
@@ -414,7 +414,7 @@ occur through these fiat-pegged tokens. Although we anticipate this being a popu
 users on the dashboard to transact, the cryptocurrencies Bitcoin and Ethereum can also be
 used based on the currency determined by that asset’s issuer.
 
-##​ 5. The Proof Token
+## 5. The Proof Token
 
 The Proof Token will be issued publicly for the first time on October 8th at 8 PM UTC +
 08:00, 2017. Initially, Proof will issue 2,362,062 tokens and publically offer 1,181,031
@@ -461,7 +461,7 @@ small portion of their transactions. This seeding of the Fiat-Contract Marketpla
 actual value to the initial issuances of the Crypto-USD and Crypto-Euro meaning that almost
 immediately, they will be ready for use on platforms beyond Proof.
 
-​## 5.2 Ethereum Blockchain Scaling
+## 5.2 Ethereum Blockchain Scaling
 
 Although Ethereum purports to support 15 transactions per second, the addition of a Turing
 complete virtual machine complicates this number
