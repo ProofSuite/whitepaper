@@ -416,7 +416,7 @@ occur through these fiat-pegged tokens. Although we anticipate this being a popu
 users on the dashboard to transact, the cryptocurrencies Bitcoin and Ethereum can also be
 used based on the currency determined by that asset’s issuer.
 
-##​ 5. The Proof Token
+## 5. The Proof Token
 
 The Proof Token will be issued publicly for the first time on October 8th at 8 PM UTC +
 08:00, 2017. Initially, Proof will issue 2,362,062 tokens and publically offer 1,181,031
