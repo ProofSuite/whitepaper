@@ -38,7 +38,7 @@ the cornerstones of deterministic, automated custodianship of financial assets a
 crowdsourced underwriting.
 
 Proof
-[1]
+<sup>[1]</sup>
 is a diverse financial asset marketplace that leverages blockchain technology to track
 ownership records of market participants. Within Proof, market participants are
 represented by blockchain addresses which perform transactions directly between one
@@ -46,10 +46,10 @@ another by leveraging smart contracts which act as autonomous, preconditioned, e
 accounts. Proof also produces tools for creating and deploying smart contracts, producing
 legal documents for blockchain-related activities, and managing blockchain-based
 promotions, such as Initial Coin Offerings, commonly known as ICO’s
-[2].
+<sup>[2]</sup>.
 
 Proof’s flagship product, the Proof Dashboard
-[3]
+<sup>[3]</sup>
 , serves thousands of users, integrating with
 various Proof Suite blockchain-oriented tools to empower new kinds of businesses serving
 its investors and token holders. While all asset records are stored on various decentralized
@@ -123,7 +123,7 @@ purchasing of more cryptocurrency for conversion or issuing refunds.
 We are currently transferring the recordkeeping of USD balances from traditional relational
 databases to tokens on Proof’s Ethereum blockchain. While this helps reconcile transfer
 histories in more linked and tamper-proof manner, it poses the same problems that the
-cryptocurrency Tether[4] has. While there is transparency and immutability regarding the
+cryptocurrency Tether <sup>[4]</sup> has. While there is transparency and immutability regarding the
 movement of funds, users must trust that their Tether token is actually backed by currency
 reserves. To solve this problem, we are introducing Crypto Fiat which pegs Ether to USD or
 Euro in an Ether reserve wallet. These Crypto Fiat smart contracts on the Ethereum
@@ -467,13 +467,13 @@ immediately, they will be ready for use on platforms beyond Proof.
 
 Although Ethereum purports to support 15 transactions per second, the addition of a Turing
 complete virtual machine complicates this number
-[5]
+<sup>[5]</sup>
 . A developer must consider added
 compute time and arbitrary function call patterns when programming a smart contract
 which, in the past, has caused mass network disruption. A dramatic example of this occurred
 during the Bancor ICO when over 10,885 buyers simultaneously attempted to purchase the
 Bancor token
-[6]
+<sup>[6]</sup>
 . Bancor structured their ICO to accept transactions on a probabilistic basis
 rather than basing it on gas prices. Although more egalitarian, the ICO, in effect, caused a
 DDOS on the Ethereum network as users threw as many transactions at the contract as
@@ -483,11 +483,11 @@ usual max of a few minutes to purported transaction times across the entire netw
 from 30 minutes to over an hour per transaction. It would be easy to blame the ICO’s
 themselves for this issue, however, with the rise of popular but compute heavy decentralized
 applications such as Etheroll
-[7]
+<sup>[7]</sup>
 , Augur
-[8]
+<sup>[8]</sup>
 , Oracalize
-[9]
+<sup>[9]</sup>
 , and Proof itself, this kind of network
 congestion must be viewed, not as an anomaly, but as the new normal. This is especially
 important since Ethereum’s self stated raison d’etre is to be a platform for decentralized
@@ -497,7 +497,7 @@ Currently, the scaling and speed solutions proposed by The Ethereum foundation h
 included a sharding solution promising thousands of transactions per second and a move
 over to pluggable proof of stake with the foundation creating their own protocol dubbed,
 ‘Casper’
-[10]
+<sup>[10]</sup>
 . These changes will include another hard fork of the Ethereum chain and will
 bring along with them a high likelihood of mass disruption across the entire Ethereum
 application space. Since the timelines for these initiatives are highly ambiguous, there exists
@@ -515,16 +515,16 @@ encompasses the introduction of sharding addressing scalability, Casper Proof of
 runtime changes to the EVM amongst many others. On the protocol and architecture levels,
 the initiatives Proof creates will also be aimed at incentivizing talented individuals to get
 involved with the public repositories of projects such as the Ethereum Core
-[11]
+<sup>[11]</sup>
 , Ethermint
-[12]
+<sup>[12]</sup>
 ,
 and Raiden
-[13].
+<sup>[13]</sup>.
 
 Likewise, Proof will look into expanding the fund to assist with application developers and
 projects working on nascent projects with Bitcoin. Since Bitcoin
-[14] continues to be a
+<sup>[14]</sup> continues to be a
 ‘transaction-only’ system, the number of ‘application level’ projects is low.
 
 ## 6. Conclusion
