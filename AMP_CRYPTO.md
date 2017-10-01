@@ -275,7 +275,7 @@ risk indicated by the prediction market.
 
 The Creditworthiness Smart Contract is accessible by token holders of an asset token
 offering that has been resolved or has received an incremental resolution step in the form of
-a dividend by the EVS smart contract. The EVS registers a EVS-Compatible token smart
+a reward by the EVS smart contract. The EVS registers a EVS-Compatible token smart
 contract issuer with the Creditworthiness Ledger smart contract if an asset is valued at over
 $100,000 USD and is insured for at least 50% of its initial valuation. When there is a
 resolution event or step within the EVS-Compatible token smart contract, the EVS registers
@@ -446,7 +446,7 @@ support, marketplace expansion, security audits, legal support, expansion of dev
 personnel, public relations, and the scaling of architecture. These are all expensive
 initiatives that will immediately begin implementation as soon as the token sale concludes.
 Proof seeks to align itself with the token holders by keeping half of the tokens and having
-half of the dividends go to the company as a primary source of revenue. This is also a
+half of the rewardss go to the company as a primary source of revenue. This is also a
 mechanism for decentralizing even Proof’s revenue model.
 
 ## 5.1 Fiat-Crypto Seeding
