@@ -1,13 +1,13 @@
-#Proof Business Plan v0.01
+# Proof Business Plan v0.01
 
 In the interest of transparency and community involvement, the most current Proof Plan has been placed in a public forum for critique and edit.  Feel free to make pull requests to this document.  This is not the final version and many edits will be made as Proof's community helps to grow Proof's vision and future.
 
-##Mission
+## Mission
 
 Proof mission is to liberate majority of impoverished people from central institutions that stifle their ability to work themselves out of poverty by allowing them to have stake in the communities around them. We will deliver blockchain technology that will build wealth within communities for generations to come, ultimately, laying the foundation for a decentralised global economy. 
 
 
-##Company Summary
+## Company Summary
 
 Proof is an open-source software company, focused on insurance and risk management markets. Proof generates revenue when positive resolutions to fixed-term insurance policies actuate. Proof does not act as an insurer. Companies  create policies using Proof’s toolsets to generate digital smart contracts, which, in turn, are governed by monetary transaction events of the issuing company. Proof bares no exposure or financial risk to insurance claims. Companies which create policies via proof tools, crowdsource the financing that pay claims.
 
@@ -24,7 +24,7 @@ AMP has an unparalleled advantage in the blockchain-based insurance market. Insu
 The crypto hedge fund industry is growing rapidly with more and more institutions experimenting with blockchain technology.
 
 
-##Standards & Compliance
+## Standards & Compliance
 
 Proof ensures regulatory compliance by working alongside both regulators, industry experts, and by analyzing industry trends and data to ensure that the technology meets best-in-class standards. 
 
@@ -33,7 +33,7 @@ By being one of the trailblazers in the early stages of the blockchain industry 
 Proof is primed to fill the appetites of crypto-investors seeking security and stability. By generating standardised smart contracts that follow the Assurance Market Protocol, Proof synchronizes the flow of financial messages on the blockchain, acting as an automated mission control for blockchain-enabled markets. 
 
 
-##Company Structure
+## Company Structure
 
 Proof is an Estonian-based company, operating in  South Korea (Seoul) and The US (LA).  The Seoul and US companies are branch offices and subsidiaries, respectively. The purpose of the country division is for tax and regulatory purposes. Estonia has 0% corporate profit taxes which is good for token “sales”. Estonia has forbearing laws concerning blockchain allowing for the opening of domestic bank accounts.  
 
@@ -42,7 +42,7 @@ In order to navigate the complicated and shifting compliance landscape of the bl
 These subdivided operations also allow for greater coordination between a diverse team of advisors, developers, and business development specialists allowing Proof to operate under the ‘around the world’ ethos.
  
 
-##Founding Members
+## Founding Members
 
 Proof was founded by Mike De’Shazer, David Van Isacker and Tai Kersten in May of 2016, originally named ‘The Think Consortium on Blockchain.’ Think was created by the three founders as a research group, studying industry trends in the emerging blockchain ecosystem. Think partnered with companies such as IBM, PwC and other blue chip firms to help create proof-of-concepts based on Think’s research and development expertise.
 
@@ -57,7 +57,7 @@ Tai Kersten is the CTO of Proof. A seasoned entrepreneur, early blockchain engin
 David Van Isacker is the CIO of Proof. After earning a Master’s in computer and mechanical engineering from Seoul National University, David joined Proof as the youngest founding member. David heads internal development processes and smart contract audits. 
 
 
-##Marketing Plan
+## Marketing Plan
 
 Proof’s marketing plan consists of social media being a cornerstone of Proof’s brand development and constant customer interaction.  Blog posts, videos, LinkedIn engagement, Reddit, BitcoinTalk, our Slack community, Telegram group, Facebook, and Twitter posts act as great toolsets to driving brand awareness of Proof as experts in the blockchain tokenisation space.  We plan to use this toolset for our three-pronged approach to advancing market share in Proofs’ two verticals.  
 
@@ -67,7 +67,7 @@ The second vertical consists of issuers who create tokens. These issuers are a d
 
 
 
-##Market Landscape
+## Market Landscape
 
 Due to distrust based on recent events including the government shutdown of BTC-e and hacks of exchanges such as Bitfinex, there has been a push among serious investors for decentralised exchanges. Currently, there are EtherDelta and Kyber, which, as web applications, are still open to government censorship. 
 
@@ -76,7 +76,7 @@ Additionally, their user interfaces are not as robust as Proof’s AMP.  We anti
 Ultimtimitally, we see Proof fulfilling the demand for fully decentralised exchanges that are censorship and hacking resistant. 
 
 
-##Proof Consulting
+## Proof Consulting
 
 Currently, Proof is building out a global consulting team to work with companies interested in learning how AMP works and the benefits of their assets on the blockchain. 
 
@@ -85,12 +85,12 @@ At the moment, we are leveraging our educational videos on our YouTube channel t
 We are ramping up these efforts by sharing Proof’s everyday management dealings, while developing consumer trust, to gain more inquiries regarding Proof consulting services. Set to launch in January of 2018, Proof Consulting will filter and work with medium to large brands to develop new revenue streams, while bringing more opportunities onto the AMP desktop application for users to purchase tokens from.
 
 
-##Derivatives, Hedge Funds & Institutional Investors
+## Derivatives, Hedge Funds & Institutional Investors
 
 To further attract more liquidity into the market from sophisticated investors, especially around real world assets, Proof will benefit from its diverse non-physical and physically-backed blockchain token offerings, which is currently not available in the market. 
 
 
-##Technology 
+## Technology 
 
 Proof’s primary open-source application is the AMP desktop application. This application is a collection for previous Proof products, though completely decentralised and featuring the double sided insurance and risk singling markets for privatised, crowdsourced and decentralised regulatory oversight. 
 
@@ -121,12 +121,12 @@ The ICO MKR enables users to create a custom homepage for their token as well as
 
 
 
-##Internal Tools
+## Internal Tools
 
 Proof utilizes a collection of tools to manage, assess, and orchestrate both its technology stack and business operations.  The platform is built upon cloud-based Infrastructure services provided by Amazon Web Services and platforms such as Heroku and Open Shift.  For analytics, Proof utilizes Mixpanel and HotJar to assess user heuristics in real time.  Tawk and a collection of communication tools such as Slack and Telegram round out Proof’s user outreach infrastructure.
 
 
-##Operations & Management Strategy
+## Operations & Management Strategy
 
 The overall operations and management strategies leverages by Proof fall under the purview of 3 core principles:
 
@@ -137,7 +137,7 @@ The overall operations and management strategies leverages by Proof fall under t
 * Harness a close relationship with your most active customers to ensure the product evolves the way it should. 
 
 
-##Management
+## Management
 
 Proof’s management ethos centers around the concept of a ‘Dynamic Hierarchy’ wherein an individual proposes an initiative with a comprehensible and easy to grasp value proposition.  In order to proceed, the individual must develop, plan, and manage the project, enlisting interested parties from the company and taking full control and responsibility of the outcome.
 
@@ -145,7 +145,7 @@ This differs from a ‘flat’ management structure in that final approval must 
      
 
 
-##Culture
+## Culture
 
 Proof’s culture is entered around openness and ideas-over-politics. While being politically correct can keep an institution out of “trouble”, Proof values an open dialogue about any subject.  Often this means that values, ideas, and past experiences will be challenged or offended.
 
@@ -167,17 +167,17 @@ Effect not time. Proof is an organization that believes in making meetings on ti
 Employees are on-boarded as contractors for the first 2 months without public acknowledgement to ensure a proper fit. The on-boarding process is focused on always keeping Proof in “startup-mode” and that is ensuring ordered chaos and obtaining talent that can fit into learning by doing in the process of the company moving through its processes. The handbook is updated regularly by inductees and veteran staff to improve the boarding studies of future inductees.
 
 
-##Equity
+## Equity
 
 Proof does not issue equity to employees, but instead entitles employees to percentages of dividend via tokens on the blockchain that employees can hold to obtain bonuses, for when they are a member of or leave the company. Employees have the right to see/trade these tokens before and after being employed with the company, as this is our business.
 
 
-##Payroll
+## Payroll
 
 Payroll is handled by Proof’s accounting firm in Korea, which ensures tax compliance and also ensures payment to all employees. Employees are given many options around allocation of their months payments, based on their retirement plans and this can be adjusted every 6 months.
 
 
-##Legal
+## Legal
 
 HMP Law, one of Korea’s largest law firms, represents Proof and has a close relationship with financial regulatory officers to ensure regulatory compliance. Likewise, Scott Thiel, senior partner of the second largest law firm in the world, sits on Proof’s board of directors. Scott manages thought leadership around blockchain technology at DLA Piper and its enterprise-level clients. 
 
