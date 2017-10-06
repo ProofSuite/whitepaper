@@ -1,6 +1,9 @@
-# Proof Business Plan v0.01
+
+#Proof Business Plan v0.02
 
 In the interest of transparency and community involvement, the most current Proof Plan has been placed in a public forum for critique and edit.  Feel free to make pull requests to this document.  This is not the final version and many edits will be made as Proof's community helps to grow Proof's vision and future.
+
+
 
 ## Mission
 
@@ -90,7 +93,7 @@ We are ramping up these efforts by sharing Proof’s everyday management dealing
 To further attract more liquidity into the market from sophisticated investors, especially around real world assets, Proof will benefit from its diverse non-physical and physically-backed blockchain token offerings, which is currently not available in the market. 
 
 
-## Technology 
+## Technology
 
 Proof’s primary open-source application is the AMP desktop application. This application is a collection for previous Proof products, though completely decentralised and featuring the double sided insurance and risk singling markets for privatised, crowdsourced and decentralised regulatory oversight. 
 
@@ -98,7 +101,7 @@ This application is a paradigm shift in the way retail investors assess risk and
 
 Furthermore, the AMP desktop application is built to be censorship-resistant, encrypted and completely peer-to-peer so that governments cannot sensor financial transactions of participants and so that participants can participate optionally anonymously. 
 
-As the application is open source, this means that banning the software, which might be the choice of some oppressive governments who want to prevent capital flight, is not an option there is no company to penalise for the distribution of the software as it is openly available to anyone.  Proof benefits by owning 50% of the issued Proof tokens (PRFT) and thus receiving rewards as the markets become more liquid. 
+As the application is open source, this means that banning the software is not an option there is no company to penalise for the distribution of the software as it is openly available to anyone.  Proof benefits by owning 50% of the issued Proof tokens (PRFT) and thus receiving rewards as the markets become more liquid. 
 
 Along with the AMP and decentralized marketplace, Proof already has a collection of products empowering users to work with blockchain technologies to support their assets and crypto-currencies:
 
@@ -134,7 +137,7 @@ The overall operations and management strategies leverages by Proof fall under t
 
 * Find the secret sauces that competitors cannot copy, even the most well funded ones with their brightest minds. In Proof’s case this is the brand of being first into the market with the earliest content and the best crypto-assets, matched with trust in the company produced crypto-fiat and artificial intelligence for identifying news that interests investors based on their investments.
 
-* Harness a close relationship with your most active customers to ensure the product evolves the way it should. 
+* Harness a close relationship with your most active customers to ensure the product evolves the way it should 
 
 
 ## Management
@@ -154,7 +157,7 @@ Through open communication, the Proof Team prides itself as a company of individ
 Proof is focused on fostering a culture of uncontained openness, ensuring equanimity and honesty along gender, racial, ideological, national, work-habit, and behavioural norms.  
 
 
-The Proof Handbook
+## The Proof Handbook
 
 The Proof handbook is an onboarding tool for all new Proof team members which focuses on the three following areas:
 
@@ -164,12 +167,12 @@ Team-over-individual focus. Not everyone in a team can agree to a course of acti
 
 Effect not time. Proof is an organization that believes in making meetings on time and coming to work on time, however, there is a greater emphasis on getting tasks completed by the deadline, no matter what unconventional roads that might take.
 
-Employees are on-boarded as contractors for the first 2 months without public acknowledgement to ensure a proper fit. The on-boarding process is focused on always keeping Proof in “startup-mode” and that is ensuring ordered chaos and obtaining talent that can fit into learning by doing in the process of the company moving through its processes. The handbook is updated regularly by inductees and veteran staff to improve the boarding studies of future inductees.
+New employees will undergo a probationary period of two months without public acknowledgement to ensure a proper fit. The on-boarding process is focused on always keeping Proof in “startup-mode” and that is ensuring ordered chaos and obtaining talent that can fit into learning by doing in the process of the company moving through its processes. The handbook is updated regularly by inductees and veteran staff to improve the boarding studies of future inductees.
 
 
-## Equity
+## Employee Stakeholders
 
-Proof does not issue equity to employees, but instead entitles employees to percentages of dividend via tokens on the blockchain that employees can hold to obtain bonuses, for when they are a member of or leave the company. Employees have the right to see/trade these tokens before and after being employed with the company, as this is our business.
+Proof does not offer stock options to its employees, but instead entitles employees to percentages of the dividends via  Proof tokens on the blockchain that employees can hold to obtain bonuses or part of their severance package. Employees have the right to trade their tokens before and after being employed with the company, as this is part of our business culture.
 
 
 ## Payroll
@@ -180,5 +183,3 @@ Payroll is handled by Proof’s accounting firm in Korea, which ensures tax comp
 ## Legal
 
 HMP Law, one of Korea’s largest law firms, represents Proof and has a close relationship with financial regulatory officers to ensure regulatory compliance. Likewise, Scott Thiel, senior partner of the second largest law firm in the world, sits on Proof’s board of directors. Scott manages thought leadership around blockchain technology at DLA Piper and its enterprise-level clients. 
-
-
