@@ -1,5 +1,5 @@
 
-#Proof Business Plan v0.02
+# Proof Business Plan v0.02
 
 In the interest of transparency and community involvement, the most current Proof Plan has been placed in a public forum for critique and edit.  Feel free to make pull requests to this document.  This is not the final version and many edits will be made as Proof's community helps to grow Proof's vision and future.
 
