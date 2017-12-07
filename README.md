@@ -418,7 +418,7 @@ used based on the currency determined by that asset’s issuer.
 
 ## 5. The Proof Token
 
-The Proof Token will be issued publicly for the first time on 10 November, 2017. Initially, Proof will issue 2,362,062 tokens and publically offer 1,181,031
+The Proof Token will be issued publicly for the first time on 1 November, 2017. Initially, Proof will issue 2,362,062 tokens and publically offer 1,181,031
 tokens at a price of .088 Ether per token. The publically offered 1,181,031 tokens will be
 available for purchase via the Proof Token smart contract. The other half of the tokens will
 be held by Proof. All token holders will collect regular automated rewards from all activities
