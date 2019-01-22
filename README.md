@@ -8,7 +8,7 @@
 
 **Tai Kersten** tai@proofsuite.com
 
-To discuss further join our [slack](http://slack.proofsuite.com/)
+To discuss further, join our [Discord](https://discordapp.com/invite/htAGDZg)
 
 ## 1. Introduction
 
